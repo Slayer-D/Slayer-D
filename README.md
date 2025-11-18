@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=300&section=header&text=Bienvenido%20a%20mi%20zona%20de%20creación&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Explora%20mi%20universo%20digital%20hecho%20de%20código%20y%20diseño&descAlignY=60&descAlign=50" width="100%">
 </div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=4000&pause=300&color=FF0000&center=true&vCenter=true&multiline=false&repeat=false&random=false&width=1000&height=80&lines=¡Hola!+Soy+Erick+Estrada+(Slayer)" width="100%" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=4000&pause=300&color=FF0000&center=true&vCenter=true&multiline=false&repeat=false&random=false&width=1000&height=80&lines=%C2%A1Hola!+Soy+Erick+Estrada+%28Slayer%29" width="100%" />
+
 
 
 
