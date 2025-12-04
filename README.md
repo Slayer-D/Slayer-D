@@ -53,10 +53,10 @@ Aplico principios de diseño centrado en el usuario, tipografía responsiva, y c
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Slayer-D&show_icons=true&theme=shadow_red&hide_border=true&hide=prs" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Slayer-D&show_icons=true&theme=dracula&hide_border=true&hide=prs" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slayer-D&layout=compact&theme=shadow_red&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slayer-D&layout=compact&theme=dracula&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -64,13 +64,13 @@ Aplico principios de diseño centrado en el usuario, tipografía responsiva, y c
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slayer-D&repo=Proyecto-final-SportBart&theme=shadow_red&cache_seconds=1" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slayer-D&repo=Proyecto-final-SportBart&theme=dracula&cache_seconds=1" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slayer-D&repo=blog-de-Pokemon&theme=shadow_red&cache_seconds=1" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slayer-D&repo=blog-de-Pokemon&theme=dracula&cache_seconds=1" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slayer-D&repo=Proyecto-acad-mico-Todolist&theme=shadow_red&cache_seconds=1" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slayer-D&repo=Proyecto-acad-mico-Todolist&theme=dracula&cache_seconds=1" />
     </td>
   </tr>
 </table>
